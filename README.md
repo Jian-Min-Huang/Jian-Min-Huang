@@ -1,4 +1,5 @@
-Hi there 👋
+# Hi there 👋 , My name is Jian-Min Huang
+
 - 😎 Wide Range Skill Set Software Engineer
 - 🧰 Research, Architecture, Coding, Database, Agile, Ops, Testing, Infrastructure
 - 👨‍💻 Mainly use JVM Languages (Java > Kotlin > Scala) but also ❤️ Python, Node.js and Go 🚀
