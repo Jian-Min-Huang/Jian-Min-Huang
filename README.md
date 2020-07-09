@@ -1,4 +1,4 @@
-# Hi there 👋 , My name is Jian-Min Huang
+# Hi there 👋 , I'm Vincent Huang
 
 - 😎 Wide Range Skill Set Software Engineer
 - 🧰 Research, Architecture, Coding, Database, Agile, Ops, Testing, Infrastructure
