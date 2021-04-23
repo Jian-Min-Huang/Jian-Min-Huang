@@ -1,5 +1,4 @@
 # Hi there 👋 , I'm Vincent Huang
-
 - 💎 https://jianminhuang.cc 🙋 You can find me via my personal page
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 - 🧰 Research, Architecture, Coding, Database, Agile, DevOps, Testing, Infrastructure
