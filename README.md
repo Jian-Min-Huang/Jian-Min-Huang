@@ -2,5 +2,5 @@
 - 💎 https://jianminhuang.cc 🙋 You can find me via my personal page
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 - 🧰 Research, Architecture, Coding, Database, Agile, DevOps, Testing, Infrastructure
-- ♠️ Mainly use JVM Languages (Java > Kotlin > Scala) but also love Python, Node.js and Go
+- ♠️ Mainly use JVM Languages and also the Kotlin GDE
 - 💞 Big fan of Ryan in KAKAO FRIENDS and Mechnical Keyboard 
