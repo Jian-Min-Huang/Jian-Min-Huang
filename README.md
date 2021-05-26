@@ -5,3 +5,5 @@
 - ♠️ Mainly use JVM Languages (Java > Kotlin > Scala) but also love Python, Node.js and Go
 - 🏆 Google Developer Expert of Kotlin
 - 💞 Big fan of Ryan in KAKAO FRIENDS and Mechnical Keyboard 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
