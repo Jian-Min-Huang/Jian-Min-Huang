@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Vincent Huang
+# Hi there 👋 , I'm Vincent Huang ![](https://komarev.com/ghpvc/?username=Jian-Min-Huang)
 - 💎 https://jianminhuang.cc 🙋 You can find me via my personal page
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 - 🧰 Research, Architecture, Coding, Database, Agile, DevOps, Testing, Infrastructure
@@ -6,4 +6,4 @@
 - 🏆 Google Developer Expert of Kotlin
 - 💞 Big fan of Ryan in KAKAO FRIENDS and Mechnical Keyboard 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jian-Min-Huang)](https://github.com/anuraghazra/github-readme-stats&show_icons=true))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jian-Min-Huang&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
