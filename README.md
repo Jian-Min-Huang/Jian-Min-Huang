@@ -3,6 +3,7 @@
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 - ♠️ Specialize in JVM Backend, DevOps and Coaching
 - 🏆 Google Developer Expert (Kotlin)
+- 💼 $_purefunc, Co-founder
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
