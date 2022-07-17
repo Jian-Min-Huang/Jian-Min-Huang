@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Vincent Huang ![](https://komarev.com/ghpvc/?username=Jian-Min-Huang)
 - 💎 https://jianminhuang.cc 🙋 You can reach me via my personal page
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
-- ♠️ Specialize in JVM Backend, DevOps and Coaching
+- ♠️ Joint of JVM Backend & DevOps
 - 🏆 Google Developer Expert (Kotlin)
 - 💼 $_purefunc, Co-founder
 
