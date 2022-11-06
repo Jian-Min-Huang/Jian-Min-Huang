@@ -6,7 +6,7 @@
 - 💼 $_purefunc, Co-founder
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%209%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -72,5 +72,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2022 02:02:09 UTC
+ Last Updated on 06/11/2022 02:05:53 UTC
 <!--END_SECTION:waka-->
