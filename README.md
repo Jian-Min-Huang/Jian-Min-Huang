@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Vincent Huang ![](https://komarev.com/ghpvc/?username=Jian-Min-Huang)
 - 👀 MBTI - [ESFJ](https://www.16personalities.com/esfj-personality)
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
-- ♠️ Joint of JVM Backend & DevOps
+- ♠️ Joint of React Frontend & JVM Backend & DevOps
 - 🏆 Google Developer Expert (Kotlin)
 - 💼 $_purefunc, Co-founder
 
