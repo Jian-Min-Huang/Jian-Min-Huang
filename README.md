@@ -2,7 +2,6 @@
 - 👀 MBTI - [ESFJ](https://www.16personalities.com/esfj-personality)
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 - ♠️ Joint of React Frontend & JVM Backend & DevOps
-- 🏆 Google Developer Expert (Kotlin)
 - 💼 $_purefunc, Co-founder
 
 <!--START_SECTION:waka-->
