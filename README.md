@@ -8,15 +8,15 @@
 **I Mostly Code in Java** 
 
 ```text
-Java                     13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
-Kotlin                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Gherkin                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-AppleScript              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Java                     13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
+Kotlin                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Gherkin                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+AppleScript              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 03/01/2026 00:33:43 UTC
+ Last Updated on 04/01/2026 00:39:43 UTC
 <!--END_SECTION:waka-->
