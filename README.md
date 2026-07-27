@@ -3,26 +3,26 @@
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C262%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C263%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-🌆 Daytime                455 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-🌃 Evening                1081 commits        █████████████░░░░░░░░░░░░   50.09 % 
-🌙 Night                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+🌞 Morning                314 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+🌆 Daytime                455 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+🌃 Evening                1081 commits        █████████████░░░░░░░░░░░░   50.05 % 
+🌙 Night                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   355 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Tuesday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Wednesday                492 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Thursday                 242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Friday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Saturday                 243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Sunday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Monday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Tuesday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                492 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Thursday                 242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Friday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Saturday                 243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Sunday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 ```
 
 
@@ -32,28 +32,28 @@ Sunday                   329 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     12 hrs              ██████████████░░░░░░░░░░░   54.54 % 
-Markdown                 2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Bash                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-HTTP Request             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Java                     9 hrs 41 mins       █████████████░░░░░░░░░░░░   50.25 % 
+Markdown                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+HTTP Request             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 47 mins      ███████████████████░░░░░░   76.21 % 
-Claude Code              3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Codex CLI                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-RustRover                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+IntelliJ IDEA            14 hrs 44 mins      ███████████████████░░░░░░   76.47 % 
+Claude Code              2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Codex CLI                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+RustRover                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-sportybet-marketing      10 hrs 40 mins      ████████████░░░░░░░░░░░░░   48.45 % 
-sportybet-patron         3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-sporty-ai-playbook       2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-sportybet-load-tests     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Vincent                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+sportybet-marketing      8 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.57 % 
+sportybet-patron         3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+sporty-ai-playbook       2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+sportybet-load-tests     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Vincent                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 💻 Operating System: 
-Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      19 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -69,5 +69,5 @@ Gherkin                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 03:29:31 UTC
+ Last Updated on 27/07/2026 03:38:09 UTC
 <!--END_SECTION:waka-->
