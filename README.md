@@ -3,10 +3,6 @@
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C218%20hrs%2011%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2010%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -34,52 +30,52 @@ Sunday                   329 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     8 hrs 20 mins       █████████████░░░░░░░░░░░░   50.67 % 
-Markdown                 1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-HTTP Request             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-CSV                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Java                     8 hrs 10 mins       ██████████████░░░░░░░░░░░   54.67 % 
+textmate                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+HTTP Request             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+CSV                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 hrs 1 min        ████████████████████░░░░░   79.07 % 
-Claude Code              1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Codex CLI                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-RustRover                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+IntelliJ IDEA            12 hrs 34 mins      █████████████████████░░░░   84.10 % 
+Claude Code              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Codex CLI                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+RustRover                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-sportybet-marketing      6 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
-sportybet-patron         3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-sporty-ai-playbook       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-sportybet-load-tests     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-sportybet-web-mvc        1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+sportybet-marketing      5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.41 % 
+sportybet-patron         3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+sportybet-load-tests     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+sportybet-web-mvc        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+goreplay-middleware      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 💻 Operating System: 
-Mac                      16 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 57 mins (36.18%)
+⏱ AI Coding Time: 4 hrs 7 mins (27.65%)
 
-✍️ 706 lines written by AI, 8,584 lines written by hand (7.6% AI-written)
+✍️ 544 lines written by AI, 10,516 lines written by hand (4.92% AI-written)
 
-🔤 27,166,172 Input Tokens, 220,368 Output Tokens
+🔤 22,956,427 Input Tokens, 182,725 Output Tokens
 
-💵 $136.07 Estimated AI Cost This Week
+💵 $113.92 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 71 AI Prompts
+🧠 23 AI Sessions, 44 AI Prompts
 
-GPT                      614 lines           ████████████████████░░░░░   81.87 % 
-Opus                     136 lines           █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+GPT                      445 lines           ███████████████████░░░░░░   75.68 % 
+Opus                     143 lines           ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.6% of written lines came from AI
-📄 Detailed Prompter — average 1,135 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.92% of written lines came from AI
+📚 Verbose Prompter — average 1,579 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.86% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -95,5 +91,5 @@ Gherkin                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:54:23 UTC
+ Last Updated on 29/07/2026 03:14:02 UTC
 <!--END_SECTION:waka-->
