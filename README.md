@@ -3,24 +3,28 @@
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C220%20hrs%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2027%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-🌆 Daytime                455 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-🌃 Evening                1081 commits        ████████████░░░░░░░░░░░░░   49.95 % 
-🌙 Night                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+🌞 Morning                316 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+🌆 Daytime                455 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌃 Evening                1081 commits        ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Tuesday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Wednesday                492 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Thursday                 242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Friday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Saturday                 243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Sunday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Monday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Tuesday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Wednesday                492 commits         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Thursday                 242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Friday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Sunday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 ```
 
 
@@ -30,52 +34,51 @@ Sunday                   329 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     8 hrs 10 mins       ██████████████░░░░░░░░░░░   54.67 % 
-textmate                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-HTTP Request             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-CSV                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Java                     5 hrs 53 mins       ██████████████░░░░░░░░░░░   54.25 % 
+textmate                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Java Properties          43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 34 mins      █████████████████████░░░░   84.10 % 
-Claude Code              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Codex CLI                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-RustRover                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+IntelliJ IDEA            8 hrs 52 mins       ████████████████████░░░░░   81.68 % 
+Claude Code              1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-sportybet-marketing      5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.41 % 
-sportybet-patron         3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-sportybet-load-tests     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-sportybet-web-mvc        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-goreplay-middleware      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+sportybet-marketing      4 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
+sportybet-web-mvc        1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+sportybet-patron         1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+goreplay-middleware      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+sportybet-load-tests     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-Mac                      14 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 7 mins (27.65%)
+⏱ AI Coding Time: 2 hrs 14 mins (20.59%)
 
-✍️ 544 lines written by AI, 10,516 lines written by hand (4.92% AI-written)
+✍️ 48 lines written by AI, 5,969 lines written by hand (0.8% AI-written)
 
-🔤 22,956,427 Input Tokens, 182,725 Output Tokens
+🔤 7,355,262 Input Tokens, 70,124 Output Tokens
 
-💵 $113.92 Estimated AI Cost This Week
+💵 $33.92 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 44 AI Prompts
+🧠 15 AI Sessions, 26 AI Prompts
 
-GPT                      445 lines           ███████████████████░░░░░░   75.68 % 
-Opus                     143 lines           ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+GPT                      34 lines            ██████████████████░░░░░░░   70.83 % 
+Opus                     14 lines            ███████░░░░░░░░░░░░░░░░░░   29.17 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.92% of written lines came from AI
-📚 Verbose Prompter — average 1,579 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.8% of written lines came from AI
+📚 Verbose Prompter — average 1,959 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.07% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -91,5 +94,5 @@ Gherkin                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 03:14:02 UTC
+ Last Updated on 30/07/2026 02:46:15 UTC
 <!--END_SECTION:waka-->
