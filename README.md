@@ -3,9 +3,9 @@
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C249%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C255%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-276%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -24,21 +24,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-🌆 Daytime                430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-🌃 Evening                1067 commits        █████████████░░░░░░░░░░░░   51.85 % 
-🌙 Night                  296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+🌞 Morning                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+🌆 Daytime                430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+🌃 Evening                1067 commits        █████████████░░░░░░░░░░░░   51.90 % 
+🌙 Night                  296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Tuesday                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                481 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Friday                   171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Saturday                 238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Sunday                   312 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Monday                   305 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Tuesday                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Wednesday                481 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Friday                   171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Saturday                 238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Sunday                   312 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 ```
 
 
@@ -48,47 +48,47 @@ Sunday                   312 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.53 % 
-Java                     6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-SQL                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Kotlin                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Markdown                 10 hrs              █████████░░░░░░░░░░░░░░░░   34.20 % 
+Java                     8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+SQL                      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Kotlin                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 2 mins       ██████████████░░░░░░░░░░░   55.95 % 
-Claude Code              5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Codex CLI                2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-VS Code                  1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-RustRover                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+IntelliJ IDEA            16 hrs 25 mins      ██████████████░░░░░░░░░░░   56.12 % 
+Claude Code              6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Codex CLI                3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+VS Code                  2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+RustRover                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 💻 Operating System: 
-Mac                      25 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      29 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 28 mins (53.75%)
+⏱ AI Coding Time: 15 hrs 49 mins (54.06%)
 
-✍️ 2,476 lines written by AI, 1,281 lines written by hand (65.9% AI-written)
+✍️ 2,742 lines written by AI, 6,821 lines written by hand (28.67% AI-written)
 
-🔤 43,776,970 Input Tokens, 1,067,892 Output Tokens
+🔤 39,982,656 Input Tokens, 1,107,586 Output Tokens
 
-💵 $226.09 Estimated AI Cost This Week
+💵 $225.98 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 225 AI Prompts
+🧠 92 AI Sessions, 256 AI Prompts
 
-Opus                     1,922 lines         ███████████████████░░░░░░   76.73 % 
-Sonnet                   309 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-GPT                      263 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Haiku                    11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Opus                     2,092 lines         ███████████████████░░░░░░   75.20 % 
+GPT                      370 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Sonnet                   309 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Haiku                    11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.9% of written lines came from AI
-📚 Verbose Prompter — average 9,195 characters per prompt
+🧑‍💻 Mostly Hands-On — 28.67% of written lines came from AI
+📚 Verbose Prompter — average 8,244 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 83.83% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -108,5 +108,5 @@ Gherkin                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jian-Min-Huang/Jian-Min-Huang/master/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 02:04:38 UTC
+ Last Updated on 12/08/2026 02:22:16 UTC
 <!--END_SECTION:waka-->
