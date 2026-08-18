@@ -3,15 +3,15 @@
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C268%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C269%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-287%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 286.0 kB Used in GitHub's Storage 
+> 📦 286.1 kB Used in GitHub's Storage 
  > 
 > 🏆 179 Contributions in the Year 2026
  > 
@@ -48,47 +48,47 @@ Sunday                   312 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     9 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.75 % 
-Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-SQL                      2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Text                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Java                     7 hrs 28 mins       ████████████░░░░░░░░░░░░░   46.17 % 
+Markdown                 2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Text                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+SQL                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 47 mins      ███████████████░░░░░░░░░░   58.13 % 
-Claude Code              3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Codex CLI                2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-RustRover                1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+IntelliJ IDEA            8 hrs 10 mins       █████████████░░░░░░░░░░░░   50.49 % 
+Codex CLI                2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Claude Code              2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+RustRover                1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+VS Code                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 💻 Operating System: 
-Mac                      20 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 39 mins (52.52%)
+⏱ AI Coding Time: 8 hrs 39 mins (53.44%)
 
-✍️ 1,949 lines written by AI, 6,571 lines written by hand (22.88% AI-written)
+✍️ 1,033 lines written by AI, 6,601 lines written by hand (13.53% AI-written)
 
-🔤 3,098,368 Input Tokens, 650,540 Output Tokens
+🔤 2,621,819 Input Tokens, 492,378 Output Tokens
 
-💵 $55.95 Estimated AI Cost This Week
+💵 $39.71 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 173 AI Prompts
+🧠 37 AI Sessions, 104 AI Prompts
 
-Opus                     1,438 lines         ██████████████████░░░░░░░   72.19 % 
-GPT                      455 lines           ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Sonnet                   99 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Opus                     500 lines           ████████████░░░░░░░░░░░░░   47.44 % 
+GPT                      455 lines           ███████████░░░░░░░░░░░░░░   43.17 % 
+Sonnet                   99 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.88% of written lines came from AI
-📄 Detailed Prompter — average 1,082 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 91.43% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 13.53% of written lines came from AI
+📄 Detailed Prompter — average 1,355 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 92.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -108,5 +108,5 @@ Gherkin                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jian-Min-Huang/Jian-Min-Huang/master/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 01:38:59 UTC
+ Last Updated on 18/08/2026 01:28:37 UTC
 <!--END_SECTION:waka-->
