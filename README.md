@@ -3,15 +3,15 @@
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C540%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C541%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-449%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-451%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 288.8 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2026
+> 🏆 236 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-🌆 Daytime                481 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-🌃 Evening                850 commits         ███████████░░░░░░░░░░░░░░   44.67 % 
-🌙 Night                  301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+🌞 Morning                271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+🌆 Daytime                482 commits         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌃 Evening                850 commits         ███████████░░░░░░░░░░░░░░   44.64 % 
+🌙 Night                  301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Tuesday                  384 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Monday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Tuesday                  385 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 Wednesday                213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 Thursday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 Friday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 Saturday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Sunday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Sunday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -46,45 +46,46 @@ Sunday                   323 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 11 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.84 % 
-Other                    5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Java                     4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Lua                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Markdown                 10 hrs 59 mins      ███████████░░░░░░░░░░░░░░   42.63 % 
+Java                     5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Other                    4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+SQL                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.59 % 
-IntelliJ IDEA            6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Claude Code              6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Codex Vscode             3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Neovim                   10 hrs 52 mins      ███████████░░░░░░░░░░░░░░   42.19 % 
+IntelliJ IDEA            6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Claude Code              5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Codex Vscode             2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      27 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 30 mins (56.23%)
+⏱ AI Coding Time: 14 hrs 17 mins (55.42%)
 
-✍️ 2,932 lines written by AI, 4,712 lines written by hand (38.36% AI-written)
+✍️ 2,700 lines written by AI, 4,634 lines written by hand (36.81% AI-written)
 
-🔤 4,002,708 Input Tokens, 723,508 Output Tokens
+🔤 3,558,283 Input Tokens, 613,700 Output Tokens
 
-💵 $64.41 Estimated AI Cost This Week
+💵 $54.88 Estimated AI Cost This Week
 
-🧠 100 AI Sessions, 261 AI Prompts
+🧠 100 AI Sessions, 265 AI Prompts
 
-Opus                     2,900 lines         ████████████████████████░   97.94 % 
-Sonnet                   41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Opus                     2,718 lines         █████████████████████████   98.44 % 
+Sonnet                   41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+GPT                      2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Intellijidea             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.36% of written lines came from AI
-📚 Verbose Prompter — average 1,717 characters per prompt
+⚖️ Balanced with AI — 36.81% of written lines came from AI
+📚 Verbose Prompter — average 1,734 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 63.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 65.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -100,5 +101,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 04:18:00 UTC
+ Last Updated on 21/10/2026 04:06:19 UTC
 <!--END_SECTION:waka-->
