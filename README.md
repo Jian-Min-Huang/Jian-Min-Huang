@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Vincent Huang ![](https://komarev.com/ghpvc/?username=Jian-Min-Huang)
+# Hi there 👋 , I'm Vincent Huang ![](https://komarev.com/ghpvc/?username=Jian-Min-Huang&color=green&style=flat-plastic)
 - 👀 MBTI - [ESFJ](https://www.16personalities.com/esfj-personality)
 - 👨‍💻 Coder, 🎤 Speaker, 👨‍🏫 Mentor and 🚀 Leader
 
