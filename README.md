@@ -7,7 +7,7 @@
 
 > 📦 288.8 kB Used in GitHub's Storage 
  > 
-> 🏆 245 Contributions in the Year 2026
+> 🏆 246 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-🌆 Daytime                482 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌃 Evening                857 commits         ███████████░░░░░░░░░░░░░░   44.75 % 
-🌙 Night                  302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+🌞 Morning                274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+🌆 Daytime                482 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+🌃 Evening                858 commits         ███████████░░░░░░░░░░░░░░   44.78 % 
+🌙 Night                  302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Tuesday                  388 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Wednesday                213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Thursday                 234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Monday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Tuesday                  388 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Wednesday                214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 Friday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Sunday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Sunday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 ```
 
 
@@ -42,45 +42,44 @@ Sunday                   323 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Other                    4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Markdown                 4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Kotlin                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Java Properties          1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Other                    5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Markdown                 3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Java                     2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Kotlin                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+conf                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
-Neovim                   6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-IntelliJ IDEA            5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Neovim                   8 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.77 % 
+Claude Code              7 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.38 % 
+IntelliJ IDEA            2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      20 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 58 mins (72.93%)
+⏱ AI Coding Time: 13 hrs 32 mins (76.69%)
 
-✍️ 3,510 lines written by AI, 245 lines written by hand (93.48% AI-written)
+✍️ 1,369 lines written by AI, 140 lines written by hand (90.72% AI-written)
 
-🔤 4,930,513 Input Tokens, 1,079,416 Output Tokens
+🔤 4,741,891 Input Tokens, 936,068 Output Tokens
 
-💵 $83.29 Estimated AI Cost This Week
+💵 $76.52 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 307 AI Prompts
+🧠 92 AI Sessions, 271 AI Prompts
 
-Opus                     3,544 lines         █████████████████████████   99.86 % 
-Haiku                    5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Opus                     1,387 lines         █████████████████████████   99.64 % 
+Haiku                    5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Intellijidea             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.48% of written lines came from AI
-📚 Verbose Prompter — average 1,828 characters per prompt
+🤖 AI-Driven — 90.72% of written lines came from AI
+📚 Verbose Prompter — average 1,634 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 13.16% of changed lines were hand-edited
+🚀 High AI Trust — 11.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -96,5 +95,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:59:13 UTC
+ Last Updated on 29/10/2026 05:11:01 UTC
 <!--END_SECTION:waka-->
