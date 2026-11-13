@@ -42,45 +42,45 @@ Sunday                   322 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
-Java                     6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Other                    6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-SQL                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-TOML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Java                     7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.19 % 
+Markdown                 5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Other                    4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+SQL                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.26 % 
-Neovim                   9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
-IntelliJ IDEA            5 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Claude Code              10 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.94 % 
+Neovim                   5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+IntelliJ IDEA            5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      26 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 12 mins (71.47%)
+⏱ AI Coding Time: 17 hrs 2 mins (78.28%)
 
-✍️ 3,617 lines written by AI, 411 lines written by hand (89.8% AI-written)
+✍️ 3,763 lines written by AI, 293 lines written by hand (92.78% AI-written)
 
-🔤 5,051,759 Input Tokens, 1,085,654 Output Tokens
+🔤 4,583,293 Input Tokens, 990,441 Output Tokens
 
-💵 $61.78 Estimated AI Cost This Week
+💵 $57.37 Estimated AI Cost This Week
 
-🧠 118 AI Sessions, 368 AI Prompts
+🧠 100 AI Sessions, 327 AI Prompts
 
-Opus                     3,784 lines         ████████████████████████░   94.29 % 
-GPT                      160 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Sonnet                   69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Opus                     3,940 lines         ████████████████████████░   94.51 % 
+GPT                      160 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Sonnet                   69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Intellijidea             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.8% of written lines came from AI
-📄 Detailed Prompter — average 1,379 characters per prompt
+🤖 AI-Driven — 92.78% of written lines came from AI
+📄 Detailed Prompter — average 1,441 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 19.01% of changed lines were hand-edited
+🚀 High AI Trust — 15.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -96,5 +96,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 06:40:28 UTC
+ Last Updated on 13/11/2026 05:57:53 UTC
 <!--END_SECTION:waka-->
